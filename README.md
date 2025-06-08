@@ -7,11 +7,11 @@
 
 ---
 
-- 🔭 I’m currently working on **[Your Project]**
-- 🌱 I’m currently learning **[Tech/Language]**
-- 💬 Ask me about **[Things you know well]**
-- 📫 How to reach me: **[your.email@example.com]**
-- ⚡ Fun fact: **[Something funny or unique about you]**
+- 🔭 I’m currently working on **projects I swore I'd finish last month**
+- 🌱 I’m currently learning **how not to over-engineer everything**
+- 💬 Ask me about **Things you know well**
+- 📫 How to reach me: **psgaming277@gmail.com**
+- ⚡ Fun fact: **I break things just to learn how to fix them.**
 
 ---
 
