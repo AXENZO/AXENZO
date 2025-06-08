@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm [AKARSH MS]</h1>
-<h3 align="center">A passionate [SOFTWARE DEVELOPER] from [India,kerala]</h3>
+<h1 align="center">Hi 👋, I'm AKARSH MS</h1>
+<h3 align="center">A passionate SOFTWARE DEVELOPER from India,kerala</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;I'm+a+Full-Stack+Developer;Love+to+build+cool+projects" />
