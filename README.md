@@ -1,3 +1,38 @@
+# Hi I'm AXENZO &nbsp;<a href="Hey"><img src="https://raw.githubusercontent.com/Viz-Zer/Viz-Zer/main/Assets/Hi.gif" width="48px"></a>
+
+![My card name](https://cardivo.vercel.app/api?name=AXENZO&description=Hi,%20Welcome%20To%20My%20Profile%20❤&image=https://avatars.githubusercontent.com/u/95731713?s=120&v=4?v=4&backgroundColor=%23ecf0f1&instagram=_axe_mortal_ff_yt&github=AXENZO&twitter=&pattern=leaf&colorPattern=%23eaeaea)
+
+
+- 👨‍💻 All of my projects are available at
+                   [REPOSITORIES](https://github.com/AXENZO/AXENZO?tab=repositories)
+
+                  
+- 🆓 Don't Forget To [Follow Me](https://github.com/AXENZO/AXENZO)
+
+<p align="center"> <a href="Axenzo"><img width="170px" height="24" src="https://komarev.com/ghpvc/?username=AXENZO&label=PROFILE%20VISITORS&color=green&style=flat-square" alt="AXENZO" /></a> </p><br> 
+
+
+<div align="center">
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AXENZO&show_icons=true&theme=nightowl" alt="AXENZO" /></p> 
+
+##
+
+<details>
+    <summary>&#127942 <b>GitHub Awards</b></summary><br/>
+
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=AXENZO)
+
+</details>
+
+
+
+<details>
+    <summary>&#127942 <b>GitHub Activity (Public Data)</b></summary><br/>
+
+![Metrics](https://metrics.lecoq.io/AXENZO?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=Europe%2FIstanbul)
+
+
+
 <h1 align="center">Hi 👋, I'm AKARSH MS</h1>
 <h3 align="center">A Passionate Software Developer from Kerala, India 🇮🇳</h3>
 
