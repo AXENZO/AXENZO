@@ -1,4 +1,4 @@
-<h1 align="center">Hi I'm AXENZO &nbsp;
+<h1 align="center">Hi I'm AKARSH MS &nbsp;
   <a href="#"><img src="https://raw.githubusercontent.com/Viz-Zer/Viz-Zer/main/Assets/Hi.gif" width="40px"></a>
 </h1>
 
@@ -7,7 +7,7 @@
 </p>
 
 ---
-<h1 align="center">Real Name Is Akarsh.M.S &nbsp;</h1>
+
 <h3 align="center">A Passionate Software Developer from Kerala, India 🇮🇳</h3>
 
 <p align="center">
