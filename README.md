@@ -7,7 +7,7 @@
 </p>
 
 ---
-<h1 align="center">Hi Real Name is Akarsh MS &nbsp;</h1>
+<h1 align="center">Real Name Is Akarsh.M.S &nbsp;</h1>
 <h3 align="center">A Passionate Software Developer from Kerala, India 🇮🇳</h3>
 
 <p align="center">
