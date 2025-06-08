@@ -1,39 +1,13 @@
-# Hi I'm AXENZO &nbsp;<a href="Hey"><img src="https://raw.githubusercontent.com/Viz-Zer/Viz-Zer/main/Assets/Hi.gif" width="48px"></a>
+<h1 align="center">Hi I'm AXENZO &nbsp;
+  <a href="#"><img src="https://raw.githubusercontent.com/Viz-Zer/Viz-Zer/main/Assets/Hi.gif" width="40px"></a>
+</h1>
 
-![My card name](https://cardivo.vercel.app/api?name=AXENZO&description=Hi,%20Welcome%20To%20My%20Profile%20❤&image=https://avatars.githubusercontent.com/u/95731713?s=120&v=4?v=4&backgroundColor=%23ecf0f1&instagram=_axe_mortal_ff_yt&github=AXENZO&twitter=&pattern=leaf&colorPattern=%23eaeaea)
+<p align="center">
+  <img src="https://cardivo.vercel.app/api?name=AXENZO&description=Hi,%20Welcome%20To%20My%20Profile%20❤&image=https://avatars.githubusercontent.com/u/95731713?v=4&backgroundColor=%23ecf0f1&instagram=_axe_mortal_ff_yt&github=AXENZO&pattern=leaf&colorPattern=%23eaeaea" />
+</p>
 
+---
 
-- 👨‍💻 All of my projects are available at
-                   [REPOSITORIES](https://github.com/AXENZO/AXENZO?tab=repositories)
-
-                  
-- 🆓 Don't Forget To [Follow Me](https://github.com/AXENZO/AXENZO)
-
-<p align="center"> <a href="Axenzo"><img width="170px" height="24" src="https://komarev.com/ghpvc/?username=AXENZO&label=PROFILE%20VISITORS&color=green&style=flat-square" alt="AXENZO" /></a> </p><br> 
-
-
-<div align="center">
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AXENZO&show_icons=true&theme=nightowl" alt="AXENZO" /></p> 
-
-##
-
-<details>
-    <summary>&#127942 <b>GitHub Awards</b></summary><br/>
-
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=AXENZO)
-
-</details>
-
-
-
-<details>
-    <summary>&#127942 <b>GitHub Activity (Public Data)</b></summary><br/>
-
-![Metrics](https://metrics.lecoq.io/AXENZO?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=Europe%2FIstanbul)
-
-
-
-<h1 align="center">Hi 👋, I'm AKARSH MS</h1>
 <h3 align="center">A Passionate Software Developer from Kerala, India 🇮🇳</h3>
 
 <p align="center">
@@ -41,6 +15,8 @@
 </p>
 
 ---
+
+### 🔍 About Me
 
 - 🔭 I’m currently working on **projects I swore I'd finish last month 😅**
 - 🌱 I’m currently learning **how not to over-engineer everything**
@@ -50,7 +26,8 @@
 
 ---
 
-<h3 align="left">🌐 Connect with me:</h3>
+### 🌐 Connect with Me
+
 <p align="left">
   <a href="https://linkedin.com/in/akarsh-m-s-399757229" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="30" />
@@ -65,7 +42,8 @@
 
 ---
 
-<h3 align="left">🛠️ Languages and Tools:</h3>
+### 🛠️ Languages and Tools
+
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
@@ -77,9 +55,10 @@
 
 ---
 
-<h3 align="center">📊 GitHub Stats</h3>
+### 📈 GitHub Analytics
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AXENZO&show_icons=true&theme=radical" alt="Akarsh's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AXENZO&show_icons=true&theme=nightowl" alt="GitHub Stats" />
 </p>
 
 <p align="center">
@@ -90,9 +69,32 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AXENZO&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
+<p align="center">
+  <img width="170px" height="24" src="https://komarev.com/ghpvc/?username=AXENZO&label=PROFILE%20VISITORS&color=green&style=flat-square" alt="AXENZO" />
+</p>
+
 ---
 
-<h3 align="center">⚡ Just Coding Vibes</h3>
+### 🏆 GitHub Achievements
+
+<details>
+  <summary>🏅 <strong>GitHub Trophies</strong></summary><br/>
+  <p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=AXENZO&theme=onedark" />
+  </p>
+</details>
+
+<details>
+  <summary>📊 <strong>GitHub Activity</strong></summary><br/>
+  <p align="center">
+    <img src="https://metrics.lecoq.io/AXENZO?template=classic&isocalendar=1&languages=1&followup=1&isocalendar.duration=half-year&config.timezone=Asia%2FKolkata" />
+  </p>
+</details>
+
+---
+
+### ⚡ Just Coding Vibes
+
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
 </p>
