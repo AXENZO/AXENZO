@@ -39,7 +39,7 @@
 
 <h3>📊 GitHub Stats:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?AKARSH MS=AXENZO&show_icons=true&theme=radical" alt="stats" />
 </p>
 
 <p align="center">
@@ -47,7 +47,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="top langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?AKARSH MS=AXENZO&layout=compact&theme=radical" alt="top langs" />
 </p>
 
 ---
