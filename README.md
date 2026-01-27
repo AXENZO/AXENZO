@@ -1,4 +1,4 @@
-<h1 align="center">Hi I'm AKARSH MS &nbsp;
+<h1 align="center">Hi I'm AKARSH &nbsp;
   <a href="#"><img src="https://raw.githubusercontent.com/Viz-Zer/Viz-Zer/main/Assets/Hi.gif" width="40px"></a>
 </h1>
 
