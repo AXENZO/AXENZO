@@ -14,6 +14,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;I'm+a+Full-Stack+Developer;I+love+to+build+cool+projects!" />
 </p>
 
+<p width="38%" align="center" valign="middle">
+
+<!-- 🪪 Swinging Lanyard ID Card (React Bits style, pure SVG) -->
+<img src="./megha-lanyard.svg?v=2" alt="Megha Mittal ID badge" width="330"/>
+
+</p>
+
 ---
 
 ### 🔍 About Me
