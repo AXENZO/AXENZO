@@ -17,7 +17,7 @@
 <p width="38%" align="center" valign="middle">
 
 <!-- 🪪 Swinging Lanyard ID Card (React Bits style, pure SVG) -->
-<img src="./megha-lanyard.svg?v=2" alt="Megha Mittal ID badge" width="330"/>
+<img src="./Aka_idcard.svg?v=2" alt="Megha Mittal ID badge" width="330"/>
 
 </p>
 
