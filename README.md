@@ -1,112 +1,98 @@
-<h1 align="center">Hi I'm AKARSH &nbsp;
-  <a href="#"><img src="https://raw.githubusercontent.com/Viz-Zer/Viz-Zer/main/Assets/Hi.gif" width="40px"></a>
-</h1>
+<!-- ================= HEADER ================= -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:7C3AED&height=200&section=header&text=Hi%2C%20I'm%20Akarsh%20👋&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Kerala%2C%20India%20🇮🇳&descSize=18&descAlignY=60" width="100%" />
+</p>
 
 <p align="center">
-  <img src="https://cardivo.vercel.app/api?name=AXENZO&description=Hi,%20Welcome%20To%20My%20Profile%20❤&image=https://avatars.githubusercontent.com/u/95731713?v=4&backgroundColor=%23ecf0f1&instagram=_axe_mortal_ff_yt&github=AXENZO&pattern=leaf&colorPattern=%23eaeaea" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!+👋;Full-Stack+Developer;I+break+things+to+learn+how+to+fix+them;Building+cool+projects+(slowly...+😅)" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AXENZO&label=PROFILE%20VIEWS&color=7C3AED&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/AXENZO?style=for-the-badge&logo=github&color=36BCF7" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/AXENZO?style=for-the-badge&logo=github&color=7C3AED" alt="Stars" />
+</p>
+
+<p align="center">
+  <img src="./Aka_idcard.svg?v=2" alt="Akarsh ID badge" width="330"/>
 </p>
 
 ---
 
-<h3 align="center">A Passionate Software Developer from Kerala, India 🇮🇳</h3>
+## 🧑‍💻 About Me
+
+```js
+const akarsh = {
+  location: "Kerala, India 🇮🇳",
+  role: "Full-Stack Developer",
+  currentlyBuilding: "projects I swore I'd finish last month 😅",
+  currentlyLearning: "how not to over-engineer everything",
+  askMeAbout: ["JavaScript", "React", "anything techy"],
+  funFact: "I break things just to learn how to fix them",
+};
+```
+
+---
+
+## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;I'm+a+Full-Stack+Developer;I+love+to+build+cool+projects!" />
-</p>
-
-<p width="38%" align="center" valign="middle">
-
-<!-- 🪪 Swinging Lanyard ID Card (React Bits style, pure SVG) -->
-<img src="./Aka_idcard.svg?v=2" alt="Megha Mittal ID badge" width="330"/>
-
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,angular,git,github,vscode&perline=10" alt="Tech stack" />
 </p>
 
 ---
 
-### 🔍 About Me
+## 🚀 Featured Projects
 
-- 🔭 I’m currently working on **projects I swore I'd finish last month 😅**
-- 🌱 I’m currently learning **how not to over-engineer everything**
-- 💬 Ask me about **JavaScript, React, or anything techy**
-- 📫 Reach me at: **psgaming277@gmail.com**
-- ⚡ Fun fact: **I break things just to learn how to fix them**
-
----
-
-### 🌐 Connect with Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/akarsh-m-s-399757229" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="30" />
-  </a>
-  <a href="https://twitter.com/Akarsh-m-s" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" height="30" width="30" />
-  </a>
-  <a href="mailto:psgaming277@gmail.com" target="_blank">
-    <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" height="30" width="30" />
-  </a>
+<!-- Replace with your own repos: just change the `repo=` value -->
+<p align="center">
+  <a href="https://github.com/AXENZO/YOUR-REPO-1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AXENZO&repo=YOUR-REPO-1&theme=tokyonight&hide_border=true" /></a>
+  <a href="https://github.com/AXENZO/YOUR-REPO-2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AXENZO&repo=YOUR-REPO-2&theme=tokyonight&hide_border=true" /></a>
 </p>
 
 ---
 
-### 🛠️ Languages and Tools
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original-wordmark.svg" alt="Angular" width="50" height="50"/>
-</p>
-
----
-
-### 📈 GitHub Analytics
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AXENZO&show_icons=true&theme=nightowl" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AXENZO&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AXENZO&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AXENZO&theme=radical" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=AXENZO&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
+<!-- 🐍 Contribution snake: needs the workflow in .github/workflows/snake.yml -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AXENZO&layout=compact&theme=radical" alt="Top Languages" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AXENZO/AXENZO/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AXENZO/AXENZO/output/github-contribution-grid-snake.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/AXENZO/AXENZO/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
 </p>
-
-<p align="center">
-  <img width="170px" height="24" src="https://komarev.com/ghpvc/?username=AXENZO&label=PROFILE%20VISITORS&color=green&style=flat-square" alt="AXENZO" />
-</p>
-
----
-
-### 🏆 GitHub Achievements
 
 <details>
   <summary>🏅 <strong>GitHub Trophies</strong></summary><br/>
   <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=AXENZO&theme=onedark" />
-  </p>
-</details>
-
-<details>
-  <summary>📊 <strong>GitHub Activity</strong></summary><br/>
-  <p align="center">
-    <img src="https://metrics.lecoq.io/AXENZO?template=classic&isocalendar=1&languages=1&followup=1&isocalendar.duration=half-year&config.timezone=Asia%2FKolkata" />
+    <img src="https://github-profile-trophy.vercel.app/?username=AXENZO&theme=onedark&no-frame=true&row=1&column=7" />
   </p>
 </details>
 
 ---
 
-### ⚡ Just Coding Vibes
+## 🌐 Let's Connect
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+  <a href="https://linkedin.com/in/akarsh-m-s-399757229"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:psgaming277@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://instagram.com/_axe_mortal_ff_yt"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <!-- Add your correct Twitter/X handle if you want it:
+  <a href="https://x.com/YOUR_HANDLE"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a> -->
 </p>
 
----
+<p align="center"><i>💡 "Make it work, make it right, make it fast." — Kent Beck</i></p>
 
-⭐️ From [AXENZO](https://github.com/AXENZO)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:36BCF7&height=120&section=footer" width="100%" />
+</p>
